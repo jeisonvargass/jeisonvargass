@@ -16,10 +16,10 @@
 ## 💻 Habilidades Técnicas
 ### Lenguajes y Frameworks
 - **C#, .NET, .NET Core, Node.js**
-- **Frameworks adicionales:** Ext.NET, Boilerplate, Bootstrap, JavaScript, LINQ, jQuery, MVC, HTML5, CSS
+- **Frameworks adicionales:** Ext.NET, Boilerplate, Bootstrap, JavaScript, LINQ, jQuery, MVC, HTML5, CSS, ASP, ASP.NET, AJAX
 
 ### Bases de Datos
-- **SQL Server, Oracle, MySQL, PostgreSQL**
+- **SQL Server, Oracle, MySQL, PostgreSQL, CosmosDb**
 
 ### Web Services
 - **REST y SOAP**
@@ -32,6 +32,10 @@
 
 ### ORM
 - **Entity Framework**
+
+### Cloud y Contenedores
+- **Azure (Application Insights, Máquinas Virtuales, Funciones Azure)**
+- **Docker**
 
 ---
 
