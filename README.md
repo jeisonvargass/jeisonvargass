@@ -15,17 +15,17 @@
 
 ## 💻 Habilidades Técnicas
 ### Lenguajes y Frameworks
-- **C#, .NET, .NET Core, Node.js**
+- **C#, .NET, .NET Core, Node.js, Angular**
 - **Frameworks adicionales:** Ext.NET, Boilerplate, Bootstrap, JavaScript, LINQ, jQuery, MVC, HTML5, CSS, ASP, ASP.NET, AJAX
 
 ### Bases de Datos
 - **SQL Server, Oracle, MySQL, PostgreSQL, CosmosDb**
 
 ### Web Services
-- **REST y SOAP**
+- **REST, SOAP y WCF**
 
 ### Servidores
-- **Windows Server 2003, 2012R2, IIS 6.0 y 7.0**
+- **Windows Server 2003, 2012R2, 2016, 2022, IIS 6.0 y 7.0, 10**
 
 ### Control de Versiones
 - **TFS, GitHub, Subversion**
@@ -34,7 +34,7 @@
 - **Entity Framework**
 
 ### Cloud y Contenedores
-- **Azure (Application Insights, Máquinas Virtuales, Funciones Azure)**
+- **Azure (Application Insights, Máquinas Virtuales, Funciones Azure, Entre Otras Tecnologias)**
 - **Docker**
 
 ---
